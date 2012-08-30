@@ -3,24 +3,26 @@ body {
 	font: 100%/1.5 Helvetica, Arial, sans-serif;
 	width: 65%; /*850px*/
 	margin: 0 auto; 
-	background-color: #5f9ea0;
+	background-color: #4682b4;
 }
 
 h1 a{ 
+	color: #fff;
 	text-decoration: none;
 }
 
 h2, h3, h4{
-	color: #321322;
+	color: #4667A5;
 	display: block;
-	background-color: #fef;
+	background-color: #778899;
 	font-size: 1.125em;
 }
 
 .container{
 	color: #000;
 	display: block;
-	width: 100%;
+	
+	background-color: #dae7ef;
 	padding: 5px;	
 }
 
@@ -29,15 +31,15 @@ h2, h3, h4{
 }
 
 #site {
-	color: #000;
+	color: #fff;
 	display: block;
-	background-color: #fff;
+	background-color: #87cefa;
 	padding: 5px;
 }
 
 #site_container {
 	color: #fff;
 	display: block;
-	background-color: #323232;
+	background-color: #B5CFFE;
 	padding: 5px;
 }

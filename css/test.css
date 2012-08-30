@@ -1,12 +1,11 @@
 body {
-	
 	font: 100%/1.5 Helvetica, Arial, sans-serif;
 	width: 65%; /*850px*/
 	margin: auto; 
 }
 
-h1{
-	
+h2, h3, h4{
+	font: 100%;
 }
 
 p {

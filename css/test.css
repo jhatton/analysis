@@ -24,11 +24,7 @@ h2, h3, h4{
 	background-color: #324332;
 }
 
-.container1{
-	color: #fff;
-	padding: 4px;
-	
-	display: block;
-	width: 100%;
-	background: #324332;
+.container p{
+	margin: 0 auto;
 }
+

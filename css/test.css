@@ -16,6 +16,7 @@ h2, h3, h4{
 	display: block;
 	background-color: #778899;
 	font-size: 1.125em;
+	font-weight: bold;
 }
 
 .container{

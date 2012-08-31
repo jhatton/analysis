@@ -2,7 +2,7 @@ body {
 	color: #324323;
 	font: 100%/1.5 Helvetica, Arial, sans-serif;
 	width: 65%; /*850px*/
-	margin: auto; 
+	margin: 0 auto; 
 	background-color: #87cefa;
 }
 
@@ -48,4 +48,5 @@ h2, h3, h4{
 #competitive a {
 	color: #fff;
 	text-decoration: none;
+
 }

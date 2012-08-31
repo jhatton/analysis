@@ -6,12 +6,12 @@ body {
 	background-color: #87cefa;
 }
 
-h1 a{ 
-	color: #fff;
-	text-decoration: none;
+header{
+	margin: 0 auto;
 }
 
-h2, h3, h4{
+
+h1, h2, h3, h4{
 	color: #fff;
 	display: block;
 	background-color: #778899;

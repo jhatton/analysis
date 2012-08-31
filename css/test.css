@@ -6,8 +6,13 @@ body {
 	background-color: #87cefa;
 }
 
+h1 {
+	margin: 0 auto;
+	text-align: center;
+	color: #000;
+}
 
-h1{
+h1 p{
 	margin: 0 auto;
 	text-align: center;
 }
